@@ -1,0 +1,4 @@
+
+- nemenként a versenyt befejezők száma
+
++ korkategóriánként az átlag depóban töltött idő
